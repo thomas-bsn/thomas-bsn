@@ -1,7 +1,6 @@
 ## Hello there ! 👋
 
 <br>
-<br>
 
 💻 __I'm a french student in Computer Science at EPITA and an Apprentice IT Engineer working at "STILL SEARCHING".__
 
