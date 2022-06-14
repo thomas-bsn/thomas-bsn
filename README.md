@@ -5,8 +5,6 @@
 
 💻 __I'm a french student in Computer Science at EPITA and an Apprentice IT Engineer working at "STILL SEARCHING".__
 
-__Main languages:__ Python, C#, C, SQL, VBA.
-
 #### Mastered languages & Frameworks:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
