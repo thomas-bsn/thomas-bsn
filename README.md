@@ -1,8 +1,5 @@
 ## Hello there ! 👋
 
-[<img align="left" alt="9600s | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="9600s | Gmail" width="22px" src="./gmail.svg" />][gmail]
-
 <br>
 <br>
 
@@ -36,6 +33,3 @@ __Main languages:__ Python, C#, C, SQL, VBA.
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-
-[linkedin]: https://www.linkedin.com/in/thomas-bsn/
-[gmail]: mailto:thomas.boisson@epita.fr
