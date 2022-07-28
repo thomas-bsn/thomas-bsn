@@ -2,7 +2,7 @@
 
 <br>
 
-💻 __I'm a french student in Computer Science at EPITA and an Apprentice IT Engineer working at "STILL SEARCHING".__
+💻 __I'm a french student in Computer Science at EPITA and an Apprentice IT Engineer working at SFR.__
 
 🎓 __Bachelor of Applied mathematics and computer science at Université 2 Toulouse - Jean Jaures__
 
