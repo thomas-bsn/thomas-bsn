@@ -2,9 +2,9 @@
 
 <br>
 
-Hello !
+Hello ! 💻
 
-💻 __My name is Thomas and I'm 21 years old living in Paris, France.__ 
+__My name is Thomas and I'm 21 years old living in Paris, France.__ 
 <br>
 
 - Computer Science student at EPITA Paris.
