@@ -1,10 +1,33 @@
-## Hello there ! 👋
+# Hello there ! 👋
 
 <br>
 
-💻 __I'm a french student in Computer Science at EPITA and an Apprentice IT Engineer working at SFR.__
+Hello !
 
-🎓 __Bachelor of Applied mathematics and computer science at Université 2 Toulouse - Jean Jaures__
+💻 __My name is Thomas and I'm 21 years old living in Paris, France.__ 
+<br>
+
+- Computer Science student at EPITA Paris.
+
+- Working as an Apprentice IT Engineer at SFR.
+
+- Learning fundamentals Computer Science
+
+- You can contact me at my:
+  - Email: thomas.boisson@epita.fr
+  - Discord: thoma$#3165
+
+- Pronouns: He/Him
+
+# Licences and Certifications
+
+- 📜 __SecNumAcadémie, Massive Open Online Course (MOOC) de l'ANSSI__
+
+- 🎓 __Bachelor of Applied mathematics and computer science at Université 2 Toulouse - Jean Jaures__
+
+- 🎓 __Baccalauréat Scientifique - Sciences de l'Ingenieur __
+
+# Tech Skills
 
 #### Mastered languages & Frameworks:
 
@@ -31,4 +54,9 @@
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
+# Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-bsn/)
+
+#
 ![](http://ForTheBadge.com/images/badges/built-with-love.svg)
