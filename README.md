@@ -4,18 +4,18 @@
 
 Hello ! 💻
 
-__My name is Thomas and I'm 21 years old living in Paris, France.__ 
+__My name is Thomas and I'm 22 years old living in Paris, France.__ 
 <br>
 
 - Computer Science student at EPITA Paris.
 
-- Working as an Apprentice IT Engineer at SFR.
+- Working as an Software Engineer Apprentice at CRITEO.
 
-- Learning fundamentals Computer Science (First year).
+- Cybersecurity and Systems Major (4th year).
 
 - You can contact me on:
-  - Email: thomas.boisson@epita.fr
-  - Discord: thoma$#3165
+  - Email: thomasbsn66@gmail.com
+  - Discord: dothedash9600
 
 - Pronouns: He/Him
 
