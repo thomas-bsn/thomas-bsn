@@ -4,14 +4,14 @@
 
 Hello ! 💻
 
-__My name is Thomas and I'm 22 years old living in Paris, France.__ 
+__My name is Thomas and I'm 23 years old living in Paris, France.__ 
 <br>
 
 - Computer Science student at EPITA Paris.
 
-- Working as an Software Engineer Apprentice at CRITEO.
+- Working as an Software Engineer Apprentice at SHIFT TECHNOLOGY.
 
-- Cybersecurity and Systems Major (4th year).
+- Cybersecurity and Systems Major (5th year).
 
 - You can contact me on:
   - Email: thomasbsn66@gmail.com
