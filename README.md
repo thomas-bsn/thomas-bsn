@@ -9,7 +9,7 @@ __My name is Thomas and I'm 23 years old living in Paris, France.__
 
 - Computer Science student at EPITA Paris.
 
-- Working as an Software Engineer Apprentice at SHIFT TECHNOLOGY.
+- Working as an Software Engineer Apprentice.
 
 - Cybersecurity and Systems Major (5th year).
 
