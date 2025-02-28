@@ -1,14 +1,14 @@
 # Hi there! 👋  
 
-**Backend & Security Engineer** | **System Programming & Cybersecurity**  
+**Software Engineer | Backend, Cloud & Reliability**
 
 ## 🚀 Skills & Expertise  
 
-🔹 **Backend Development** → Scalable architectures, API design, database optimization.  
-🔹 **Cybersecurity** → Secure coding, vulnerability analysis, system hardening.  
-🔹 **System Programming** → Low-level dev, memory management, performance tuning.  
-🔹 **Cloud & Infrastructure** → CI/CD, automation, containerization (Docker, Kubernetes).  
-🔹 **Problem Solving & Algorithms** → Optimized solutions, data structures, system design.  
+🔹 **Backend Development** → Scalable systems, API design, database performance & optimization.  
+🔹 **Cloud & Infrastructure** → CI/CD, cloud automation, containerization (Docker, Kubernetes).  
+🔹 **Site Reliability Engineering (SRE)** → Monitoring, logging, high availability, incident response.  
+🔹 **Security Best Practices** → Secure coding, vulnerability mitigation, system hardening.  
+🔹 **Problem Solving & System Design** → Scalable architectures, distributed systems, efficiency optimization.  
 
 ## ⚙️ Tech Stack  
 
