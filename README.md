@@ -1,4 +1,3 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHUCNF17UYf8w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1676237814419?e=1746057600&v=beta&t=EdZrpbE8BJ7FCBkP9DbZhjoAtZDs18v7R02V5SYVIiY)
 # Hi there! 👋 
 
 **Software Engineer | Scalable Backend Systems, Cloud Infrastructure & Reliability Engineering**
